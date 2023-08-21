@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sankar",
+      "branch": "Mech",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "name": "Guru",
+      "branch": "Civil",
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "name": "Chandru",
+      "branch": "Mech",
+      "year": 2019
+    }
+  ]
+}

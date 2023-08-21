@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Shankar",
+      "branch": "Mech",
+      "rollNo": "1021",
+      "year": "2020",
+      "place": "Chennai"
+    },
+    {
+      "id": 2,
+      "name": "Guru",
+      "branch": "CSC",
+      "rollNo": 2063,
+      "year": 2021,
+      "place": "Tenkasi"
+    },
+    {
+      "id": 3,
+      "name": "Chandru",
+      "branch": "Mech",
+      "rollNo": 1052,
+      "year": "2018",
+      "place": "Madurai"
+    },
+    {
+      "name": "Hari",
+      "branch": "CSC",
+      "rollNo": "1432",
+      "year": "2022",
+      "place": "Tirunelveli",
+      "id": 4
+    }
+  ]
+}
